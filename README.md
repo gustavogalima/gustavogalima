@@ -38,7 +38,7 @@
 <h4>Redes sociais:</h4>
  
   <div style="display: inline_block">
-  <a href="https://www.youtube.com/@ØwON3)" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=black" target="_blank"></a>
+  <a href="https://www.youtube.com/@ØwON3" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=black" target="_blank"></a>
   <a href="https://www.instagram.com/proto_gus/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-lima-195390280/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black"target="_blank"</a> 
   </div>
